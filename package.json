@@ -1,6 +1,6 @@
 {
 	"name": "@mcesystems/proxy-agent",
-	"version": "5.0.0",
+	"version": "5.0.1",
 	"description": "Maps proxy protocols to `http.Agent` implementations",
 	"main": "index.js",
 	"scripts": {
